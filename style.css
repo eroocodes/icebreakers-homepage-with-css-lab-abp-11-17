@@ -42,6 +42,7 @@ header a{
 }
 #header a {
   float: left;
+  font-size: 30px;
 }
 div.questions a.btn{
   border-radius: 5px;
