@@ -14,9 +14,6 @@ header {
 header nav {
   float: right;
 }
-h3 {
-  float: left;
-}
 nav ul {
   margin: 40px 0 0 0;
   padding: 0;
@@ -42,6 +39,9 @@ header a{
 }
 #header a:hover{
   text-decoration: underline;
+}
+#header a {
+  float: left;
 }
 div.questions a.btn{
   border-radius: 5px;
